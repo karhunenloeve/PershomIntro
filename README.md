@@ -3,4 +3,6 @@ This presentation introduces the simplicial theory of homology and an applied fi
 
 The presentation was held at [Christ Nagar College](http://christnagarcollege.com).
 
+[Download the lecture slides.](https://karhunenloeve.github.io/PershomIntro/FAU-Beamer.pdf)
+
 **Authors:** Luciano Melodia
